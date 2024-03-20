@@ -1,0 +1,125 @@
+1
+
+Body{
+background-image:imag4:
+"Imagenes/Ingrid.jpg";
+background-attachment: fixed;
+background-position: right right;
+background-size: cover;
+}
+
+.imagen1{
+   width: 300px;
+   border-radius: 30px
+}
+
+.parrafo{
+    font-family: cursive;
+    font-size: 17; 
+    text-align: justify;
+}
+
+.barra_nav{
+    font-weight: 1000;
+    border-radius: 90px;
+    margin:5px;
+}
+
+.barra_nav{
+  font-family:verdana;
+  font-size:20px;
+  color:white;
+  text-shadow: 1px  0px 0px black,
+}
+
+2
+
+Body{
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center center;
+background-size: cover;
+}
+
+.imagenes2{
+   width: 600px;
+   border-radius: 30px
+}
+
+.barra_nav{
+    font-weight: 1000;
+    border-radius: 90px;
+    margin:5px;
+}
+
+.barra_nav{
+  font-family:verdana;
+  font-size:20px;
+  color:white;
+  text-shadow: 1px  0px 0px black,
+}
+
+.parrafo{
+    font-family: cursive;
+    font-size: 18; 
+    text-align: justify;
+}
+
+3
+
+.barra_nav{
+    font-weight: 1000;
+    border-radius: 90px;
+    margin:5px;
+}
+
+.barra_nav{
+  font-family:verdana;
+  font-size:20px;
+  color:white;
+  text-shadow: 1px  0px 0px black,
+}
+
+.parrafo{
+    font-family: cursive;
+    font-size: 18; 
+    text-align: justify;
+}
+
+.imagenes3{
+   width: 600px;
+   border-radius: 30px
+}
+
+4
+
+.postre{
+    
+    width: 500px;
+    border-radius: 30px;
+}
+
+.barra_nav{
+  font-family:verdana;
+  font-size:20px;
+  color:white;
+  text-shadow: 1px  0px 0px black,
+}
+
+.parrafo{
+    font-family: cursive;
+    font-size: 18; 
+    text-align: justify;
+}
+
+.imagen{
+    
+   width: 80px;
+   border-radius: 30px;
+}
+
+.papel{
+    width: 200px;
+    border-radius: 30px;
+}
+
